@@ -1,0 +1,10 @@
+# os
+.DS_Store
+
+# pytest
+.pytest_cache
+__pycache__
+
+# pypy
+dist
+*.egg-info
