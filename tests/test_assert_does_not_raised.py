@@ -1,6 +1,6 @@
 import pytest
 
-from assert_does_not_raised import assert_does_not_raised
+from pytest_tools import assert_does_not_raised
 
 
 class TestAssertDoesNotRaised:
