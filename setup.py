@@ -11,7 +11,7 @@ setup(
         author_email="<l1oret@outlook.com>",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
-        packages=["pytest_tool"],
+        packages=["pytest_tools"],
         install_requires=["pytest"],
         keywords=["python", "pytest"],
         classifiers= [
