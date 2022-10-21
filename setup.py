@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Pytest tools'
 LONG_DESCRIPTION = 'Some tools for pytest'
 
@@ -11,9 +11,9 @@ setup(
         author_email="<l1oret@outlook.com>",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
-        packages=find_packages(),
-        install_requires=['pytest'],
-        keywords=['python', 'pytest'],
+        packages=["pytest_tool"],
+        install_requires=["pytest"],
+        keywords=["python", "pytest"],
         classifiers= [
             "Development Status :: 4 - Beta",
             "Intended Audience :: Developers",
