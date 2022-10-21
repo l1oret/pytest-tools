@@ -1,1 +1,1 @@
-from pytest_tools.assert_does_not_raised import assert_does_not_raised
+from pytest_tools.assert_does_not_raise import assert_does_not_raise

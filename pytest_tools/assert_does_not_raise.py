@@ -12,7 +12,7 @@ def get_fail_message(exception):
 
 
 @contextmanager
-def assert_does_not_raised():
+def assert_does_not_raise():
     try:
         yield
     except Exception as exception:

@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Pytest tools'
 LONG_DESCRIPTION = 'Some tools for pytest'
 
