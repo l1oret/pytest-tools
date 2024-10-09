@@ -3,7 +3,7 @@ import pytest
 from pytest_tools import assert_does_not_raise
 
 
-class TestAssertDoesNotRaised:
+class TestAssertDoesNotRaise:
     def test_pass_when_no_exception_is_raised(self):
         with assert_does_not_raise():
             pass
