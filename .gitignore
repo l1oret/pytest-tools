@@ -1,6 +1,9 @@
 # os
 .DS_Store
 
+# editor
+.vscode
+
 # pytest
 .pytest_cache
 __pycache__
