@@ -8,6 +8,6 @@ pip install pytest-tools
 
 ## Tools
 
-### Assert does not raised
+### Assert does not raise
 
-Verifies that no exception is raised
+Verifies that no exception is raised.
